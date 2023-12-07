@@ -1,4 +1,4 @@
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "key"
 
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from langchain.chat_models import ChatOpenAI
